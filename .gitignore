@@ -66,3 +66,6 @@ node_modules/
 
 #hosting and device syncing
 .firebase*
+
+#Letters of Reference
+public/'Letters of Reference'/
