@@ -1,2 +1,1 @@
-# gmanuel
-Personal Website
+# gmanuel-website
